@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class TrackingSystem {
     public static void main(String[] args) throws IOException {
         BST tree = new BST();
-
-        Scanner sc = new Scanner(System.in);
-        //String fileName = sc.nextLine();
+        
         String fileName = "src\\example.txt";
 
         LinkedList<String> list = readFile(fileName);
