@@ -1,2 +1,2 @@
 # tracking-system
-##  Simple Inventory Tracking System using binary search tree.
+* Simple Inventory Tracking System using binary search tree.
